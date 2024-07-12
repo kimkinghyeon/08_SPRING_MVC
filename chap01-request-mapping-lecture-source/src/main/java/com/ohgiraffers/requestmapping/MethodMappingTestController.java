@@ -7,8 +7,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import java.awt.*;
-
 /*
 DispatcherServlet 은 웹 요청을 받는즉시 @Controller 가 달린 컨트롤러 클래스에
 처리를 위임한다. 그 과정은 컨트롤러 클래스의 핸들러 메서드에 선언된
